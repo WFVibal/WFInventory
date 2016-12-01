@@ -1,0 +1,65 @@
+﻿[
+    {
+        "item_type": "Blueprint",
+        "item_name": "Loki Prime Chassis",
+        "quantity": 2
+    },
+    {
+        "item_type": "Blueprint",
+        "item_name": "Nyx Prime Systems",
+        "quantity": 4
+    },
+    {
+        "item_type": "Blueprint",
+        "item_name": "Rhino Prime Blueprint",
+        "quantity": 1
+    },
+    {
+        "mod_max_rank": 3,
+        "rarity": "unknown",
+        "item_wiki": "http://warframe.wikia.com/wiki/Hammer_Shot",
+        "category": "Rifle",
+        "item_type": "Mod",
+        "item_name": "Hammer Shot"
+    },
+    {
+        "mod_max_rank": 3,
+        "rarity": "unknown",
+        "item_wiki": "http://warframe.wikia.com/wiki/Malignant_Force",
+        "category": "Rifle",
+        "item_type": "Mod",
+        "item_name": "Malignant Force"
+    },
+    {
+        "mod_max_rank": 5,
+        "rarity": "unknown",
+        "item_wiki": "http://warframe.wikia.com/wiki/Seeking_Force",
+        "category": "Shotgun",
+        "item_type": "Mod",
+        "item_name": "Seeking Force"
+    },
+    {
+        "mod_max_rank": 5,
+        "rarity": "Uncommon",
+        "item_wiki": "http://warframe.wikia.com/wiki/Rift_Strike",
+        "category": "Melee",
+        "item_type": "Mod",
+        "item_name": "Rift Strike"
+    },
+    {
+        "mod_max_rank": 5,
+        "rarity": "Uncommon",
+        "item_wiki": "http://warframe.wikia.com/wiki/Vulcan_Blitz",
+        "category": "Melee",
+        "item_type": "Mod",
+        "item_name": "Vulcan Blitz"
+    },
+    {
+        "mod_max_rank": 5,
+        "rarity": "Uncommon",
+        "item_wiki": "http://warframe.wikia.com/wiki/Fomorian_Accelerant",
+        "category": "Shotgun",
+        "item_type": "Mod",
+        "item_name": "Fomorian Accelerant"
+    }
+]
